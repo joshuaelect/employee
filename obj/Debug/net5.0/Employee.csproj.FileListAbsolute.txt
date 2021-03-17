@@ -1,0 +1,10 @@
+C:\Users\Ogunyemi Victor O\Desktop\Employee\obj\Debug\net5.0\Employee.csprojAssemblyReference.cache
+C:\Users\Ogunyemi Victor O\Desktop\Employee\obj\Debug\net5.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ogunyemi Victor O\Desktop\Employee\obj\Debug\net5.0\Employee.AssemblyInfoInputs.cache
+C:\Users\Ogunyemi Victor O\Desktop\Employee\obj\Debug\net5.0\Employee.AssemblyInfo.cs
+C:\Users\Ogunyemi Victor O\Desktop\Employee\obj\Debug\net5.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder (2)\employee\Employee\obj\Debug\net5.0\Employee.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\New folder (2)\employee\Employee\obj\Debug\net5.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\New folder (2)\employee\Employee\obj\Debug\net5.0\Employee.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\New folder (2)\employee\Employee\obj\Debug\net5.0\Employee.AssemblyInfo.cs
+C:\Users\HP\Desktop\New folder (2)\employee\Employee\obj\Debug\net5.0\Employee.csproj.CoreCompileInputs.cache
